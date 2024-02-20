@@ -6,7 +6,7 @@
     "AdminUnit": "Bureau of Land Management",
     "County": "Riverside",
     "Location": "Dos Palmas Spring Road, North Shore ",
-    "AcresBurned": 75,
+    "AcresBurned": 0,
     "PercentContained": 0,
     "Longitude": -115.83168,
     "Latitude": 33.50521,
@@ -15,6 +15,6 @@
     "Url": "/incidents/2024/2/20/palmas-fire/",
     "StartedDateOnly": null,
     "IsActive": true,
-    "ExternalUrl": ""
+    "ExternalUrl": "https://www.blm.gov/california"
   }
 ]
