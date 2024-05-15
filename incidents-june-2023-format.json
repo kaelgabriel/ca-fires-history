@@ -34,5 +34,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Cow Fire",
+    "Updated": "2024-05-15",
+    "Started": "2024-05-15",
+    "AdminUnit": "",
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 106.4,
+    "PercentContained": 0,
+    "Longitude": -118.695786,
+    "Latitude": 35.497505,
+    "Type": null,
+    "UniqueId": "190200af-43ff-4874-8cd0-ea681b1582ae",
+    "Url": "/incidents/2024/5/15/cow-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
