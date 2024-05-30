@@ -1,13 +1,13 @@
 [
   {
     "Name": "Hill Fire",
-    "Updated": "2024-05-29",
+    "Updated": "2024-05-30",
     "Started": "2024-05-28",
     "AdminUnit": "Unified Command: Santa Barbara County Fire Department and United States Forest Service",
     "County": "Santa Barbara",
     "Location": "Foothill Road and Highway 33, Cuyama Valley",
     "AcresBurned": 1383,
-    "PercentContained": 50,
+    "PercentContained": 70,
     "Longitude": -119.5572279,
     "Latitude": 34.8936966,
     "Type": null,
