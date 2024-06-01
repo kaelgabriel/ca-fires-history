@@ -1,7 +1,7 @@
 [
   {
     "Name": "Hill Fire",
-    "Updated": "2024-05-31",
+    "Updated": "2024-06-01",
     "Started": "2024-05-28",
     "AdminUnit": "Unified Command: Santa Barbara County Fire Department and United States Forest Service",
     "County": "Santa Barbara",
@@ -19,7 +19,7 @@
   },
   {
     "Name": "Great 3 Fire",
-    "Updated": "2024-05-31",
+    "Updated": "2024-06-01",
     "Started": "2024-05-30",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "County": "San Diego",
@@ -61,7 +61,7 @@
     "County": "Kern",
     "Location": "Redhill Road, Bodfish",
     "AcresBurned": 98,
-    "PercentContained": 0,
+    "PercentContained": 45,
     "Longitude": -118.4733,
     "Latitude": 35.601284,
     "Type": null,
@@ -115,7 +115,7 @@
     "County": "Kern",
     "Location": "Rancheria Road, Bakersfield",
     "AcresBurned": 616,
-    "PercentContained": 0,
+    "PercentContained": 90,
     "Longitude": -118.82214,
     "Latitude": 35.442336,
     "Type": null,
