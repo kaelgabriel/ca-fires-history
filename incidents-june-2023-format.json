@@ -124,5 +124,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Boyd Fire",
+    "Updated": "2024-06-01",
+    "Started": "2024-06-01",
+    "AdminUnit": "",
+    "County": "Tulare",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 36,
+    "PercentContained": 0,
+    "Longitude": -119.238103,
+    "Latitude": 36.573169,
+    "Type": null,
+    "UniqueId": "78c444a4-62f6-4a10-a6c5-82060428386c",
+    "Url": "/incidents/2024/6/1/boyd-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
