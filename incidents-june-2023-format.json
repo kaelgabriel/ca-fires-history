@@ -70,5 +70,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Raymond Fire",
+    "Updated": "2024-06-01",
+    "Started": "2024-06-01",
+    "AdminUnit": "",
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 30,
+    "PercentContained": 0,
+    "Longitude": -120.044449,
+    "Latitude": 36.974519,
+    "Type": null,
+    "UniqueId": "8272c94a-4757-4ee4-9395-69cf62f0d857",
+    "Url": "/incidents/2024/6/1/raymond-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
