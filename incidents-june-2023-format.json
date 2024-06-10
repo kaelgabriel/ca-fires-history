@@ -115,7 +115,7 @@
     "County": "Calaveras",
     "Location": "New Hogan Lake, Valley Springs",
     "AcresBurned": 15,
-    "PercentContained": 0,
+    "PercentContained": 100,
     "Longitude": -120.79181,
     "Latitude": 38.1179241,
     "Type": null,
