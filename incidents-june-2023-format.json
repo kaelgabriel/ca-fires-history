@@ -196,5 +196,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Hinkley Fire",
+    "Updated": "2024-06-11",
+    "Started": "2024-06-11",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "County": "San Bernardino",
+    "Location": "Hinkley Road, Hinkley",
+    "AcresBurned": 50,
+    "PercentContained": 0,
+    "Longitude": -117.188996,
+    "Latitude": 34.89273,
+    "Type": null,
+    "UniqueId": "408d5919-b681-4480-8fcb-634bd50494fe",
+    "Url": "/incidents/2024/6/11/hinkley-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
