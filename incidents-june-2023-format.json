@@ -106,5 +106,23 @@
     "StartedDateOnly": null,
     "IsActive": true,
     "ExternalUrl": ""
+  },
+  {
+    "Name": "Cod Fire",
+    "Updated": "2024-06-10",
+    "Started": "2024-06-10",
+    "AdminUnit": "CAL FIRE Siskiyou Unit ",
+    "County": "Siskiyou",
+    "Location": "Kimberly Court, Montague",
+    "AcresBurned": 12,
+    "PercentContained": 0,
+    "Longitude": -122.444022,
+    "Latitude": 41.900664,
+    "Type": null,
+    "UniqueId": "410327d5-b412-4a81-99f5-bd10c9e9c832",
+    "Url": "/incidents/2024/6/10/cod-fire/",
+    "StartedDateOnly": null,
+    "IsActive": true,
+    "ExternalUrl": ""
   }
 ]
